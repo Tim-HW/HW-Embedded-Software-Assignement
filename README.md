@@ -2,9 +2,9 @@
 This program is simulating a car physics in C++. The aim is to use real-time function such as treads and semaphores to create a realistic physics of a car.
 The embedded system has 3 buttons.
 
-1 - Acceleration
-2 - Break
-3 - Cruise mod
+1 - Acceleration.
+2 - Break.
+3 - Cruise mod.
 
 ![alt text](https://github.com/Tim-HW/HW-Embedded-Software-Assignement/blob/main/car.jpg)
 
