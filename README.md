@@ -6,5 +6,8 @@ The embedded system has 3 buttons.
 2 - Break
 3 - Cruise mod
 
+![alt text](http://url/to/img.png)
+
 Each of them uses interrputs and thread to update the physics equations with new inputs. caluclation in real time the exacte position of the car on a straight line.
 You can find more information on the PDF.
+
